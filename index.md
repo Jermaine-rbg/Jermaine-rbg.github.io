@@ -57,7 +57,11 @@
 <li>Beyond QA: Unit testing and infrastructure testing</li>
 </ul>
 
+
 <img src='./assets/softwaretesting.png'>
+
+<br>
+<br>
 
 <h3>GitHub Account</h3>
 
