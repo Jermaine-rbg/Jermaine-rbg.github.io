@@ -17,7 +17,7 @@
 <li>Releasing with feature flags</li>
 </ul>
 
-<img src='./assets/gitworkflow.png'></img>
+<img src='./assets/gitworkflow.png'>
 
 <br>
 <br>
@@ -37,3 +37,5 @@
 <li>Testing and handling bugs</li>
 <li>Testing and handling bugs</li>
 </ul>
+
+<img src='./assets/agiledevelopment.png'>
