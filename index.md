@@ -17,6 +17,8 @@
 <li>Releasing with feature flags</li>
 </ul>
 
+<img src='./assets/gitworkflow.png'></img>
+
 <br>
 <br>
 
