@@ -8,8 +8,13 @@
 <ul>
 <li>What is Git Flow</li>
 <li>What is GitHub Flow</li>
-<li>GitHub Repo setup</li>
-<li>Created a development branch off of main</li>
+<li>GitHub Flow Repo setup</li>
+<li>Branch Structure</li>
+<li>Truck Based Development</li>
+<li>Using GitHub Pages and Actions</li>
+<li>Feature Flags</li>
+<li>Using feature flag software</li>
+<li>Releasing with feature flags</li>
 </ul>
 
 <br>
