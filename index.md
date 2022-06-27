@@ -5,13 +5,12 @@
 
 <h3>Skills learned in this course.</h3>
 
--What is Git Flow
--GitHub Flow setup
--GitHub Flow in pratice
-   setup development branch off of main branch
-   setup feature branch off of development branch using Git commands in CLI
--Making pull request before merging into each  branch
-   
+<ul>
+<li>What is Git Flow</li>
+<li>What is GitHub Flow</li>
+<li>GitHub Repo setup</li>
+<li>Create develop branch off of main</li>
+</ul>
 
 <br>
 <br>
