@@ -60,7 +60,8 @@
 <img src='./assets/softwaretesting.png'>
 
 <h3>GitHub Account</h3>
- <a href="https://github.com/Jermaine-rbg/Jermaine-rbg.github.io">
+
+ <a href="https://github.com/Jermaine-rbg/Jermaine-rbg.github.io"></a>
 
  <img src='./assets/Jermaine-rbg.github.io.png'>
 
