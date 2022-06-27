@@ -59,3 +59,10 @@
 
 <img src='./assets/softwaretesting.png'>
 
+<h3>GitHub Account</h3>
+ <a href="https://github.com/Jermaine-rbg/Jermaine-rbg.github.io">
+
+ <img src='./Jermaine-rbg.github.io.png'>
+
+
+
