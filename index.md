@@ -39,3 +39,24 @@
 </ul>
 
 <img src='./assets/agiledevelopment.png'>
+
+<br>
+<br>
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/software-testing-tools/making-the-right-software-testing-choice?autoplay=false&claim=AQFc7YpP7NScJwAAAYGjvScEWBCgCCu_ic9VD1KFnnX-dWWUTfnxwz_zosZsdCLPp_aRkwYLE5HboyWCUr40_NUnajTy0FZdHb4t7Oyf9lnakas0Cb8b9WAJX_0uaSUV7hYNFrExfaYvWs6_PSURU_ACb-LWpN5_SW8R49g91OY1_FzkwNy0jJI5juq9BVpxrXReYrjVFcOpmLUITC94IWnX4I8mJ8S5VbvO8v5aiNl2R-GRA6UuhwkkL0NPYVG3Nig9KTex_G41YuTSkZLTCPjfDK8JdxGPBGIn6CGb0rM3P9GJKN-mByFbjH3R5Vxl4Az9hOngj3qcTkdQldDnFzEoKuzwoqPZz0hItRhf5utV2lI7oMK6qRk7HUS5pOaaxrkxTCNNWdGEwli9YoLiKa6KuUh8l8ZeYHilaYidHlMy5jYyvLelXJfXb3TCqSp7ftdtiC_bGuRy6HUDHA0TKAPI0hCkDCE279Q67KoZZpJbbTxE45hwsk_Ntu8PcaeufS6Rfy2gC2PaHv3CdNnKP3_jWUoD1UETMnpdRoHHtJNnKsuwy0zMajS2Sk8AEMbnOzqsSYEe9sRcy2hBv5pNimxuWTaiCxlgoPHEG5RDLfGH58bJgw_umr8okXq_JpJZC21Yy9RPmaDdfyNiJLVWnKoj6hx1EFUzYWoGn1WjVlPK7sjw7zxJGSkGixccduyJbih0PT40S5AmRnJtCW1YHIAfP2S3bIAIOEI2ACDl_wwMGQ0OuBIkZIB372HZv4NfTTmvIIICtNkKuYLrkVoNWwWeZEW7wIcFmY2M4AFf1tfWQFUnBiGxthtqsZQvrs8RjLJicqHLTgje3dkT2eKxxVb3j_gd6ch0_Ab9IeLuJQTBhtd5Mrm8hm7C7TbQ21Cme8gi2e76H3mlpDbJAM0L7lYY20TGWGcDdKj7Htl8VGEGjF59sWS0qTY4P4K84k7f8lXsDRjoSosIjYhn5TpQm_HPBEaBbCFhp7yXBlS8FTGqsM3ievUAvwPi01DnArvo5j072bmZbK6yhAkes_cFBQ2QF40uNtSRzGEWLBVFjhZU6LOMG0ROEggE9pdamzcNoNTWveJVRKBzQlq9DYmAAx8yRVcnjXvGbNEHxjAMeqoYZlEF5OX9VyvwcqEx-32yeLMbYQTOB8E6Z3iV-ME6G8xdr8ljixe_PPNa&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BvpUTI2PtQHWM%2BtUbjqWYEQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/software-testing-tools/making-the-right-software-testing-choice?trk=embed_lil">Making the right software testing choice</a></strong> from <strong><a href="https://www.linkedin.com/learning/software-testing-tools?trk=embed_lil">Software Testing: Tools</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/michael-smith-2?trk=embed_lil">Michael Smith</a></strong></p>
+
+<h3>Skills learned in this course.</h3>
+
+<ul>
+<li>Lifecycle management</li>
+<li>Test planning tools</li>
+<li>Test automation frameworks</li>
+<li>API testing tools</li>
+<li></li>
+<li>Vulnerability scanners</li>
+<li>Load testing with JMeter and more</li>
+<li>Beyond QA: Unit testing and infrastructure testing</li>
+</ul>
+
+<img src='./assets/softwaretesting.png'>
+
