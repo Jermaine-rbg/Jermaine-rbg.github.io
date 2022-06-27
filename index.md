@@ -37,7 +37,6 @@
 <li>Agile programming techniques</li>
 <li>Refactoring</li>
 <li>Testing and handling bugs</li>
-<li>Testing and handling bugs</li>
 </ul>
 
 <img src='./assets/agiledevelopment.png'>
