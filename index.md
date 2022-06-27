@@ -52,7 +52,6 @@
 <li>Test planning tools</li>
 <li>Test automation frameworks</li>
 <li>API testing tools</li>
-<li></li>
 <li>Vulnerability scanners</li>
 <li>Load testing with JMeter and more</li>
 <li>Beyond QA: Unit testing and infrastructure testing</li>
